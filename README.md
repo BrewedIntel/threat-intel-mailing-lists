@@ -98,6 +98,10 @@ Industry news with a focus on exploitation and active threats.
 https://www.thecyberwire.com  
 Concise daily cyber news and threat insights.
 
+### **defend.network – Daily Threat Briefing**  
+https://defend.network  
+Free daily verified cyber threat briefings and weekly vulnerability reports; every CVE cross-checked against NVD and CISA KEV.
+
 ---
 
 ## Government & CERT Bulletins
