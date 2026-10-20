@@ -98,6 +98,10 @@ Industry news with a focus on exploitation and active threats.
 https://www.thecyberwire.com  
 Concise daily cyber news and threat insights.
 
+### **ICHI – Internet Cyber Health Index**  
+https://ichi.global  
+Free, source-transparent daily internet cyber-health barometer. Aggregates 20+ named public feeds (CISA KEV, Shodan, Censys, abuse.ch, US-CERT, CVE/NVD) into a composite index score with a live dashboard. Daily alerts available via RSS at https://ichi.global/api/alerts. No login required.
+
 ---
 
 ## Government & CERT Bulletins
